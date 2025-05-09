@@ -1,0 +1,9 @@
+/* Add your own custom styles here */
+
+/* 항상 스크롤바 표시하기 */
+html {
+    overflow-y: scroll;
+    scrollbar-width: auto;  /* Firefox 용 */
+    scrollbar-color: rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.1);  /* Firefox 용 */
+  }
+  

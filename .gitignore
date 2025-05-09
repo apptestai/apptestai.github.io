@@ -1,0 +1,17 @@
+ # Hugo
+public/
+.hugo_build.lock
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
